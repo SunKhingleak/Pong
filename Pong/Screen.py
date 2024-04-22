@@ -2,7 +2,7 @@ import pygame, sys
 from game import *
 
 pygame.init()
-ball = Ball()
+
 width = 1280
 height = 800
 
